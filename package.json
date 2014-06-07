@@ -7,10 +7,10 @@
     "ui"
   ],
   "dependencies": {
-    "after-transition": "0.0.3",
-    "component-event": "master",
-    "component-domify": "master",
-    "component-emitter": "master"
+    "after-transition": "0.0.4",
+    "component-event": "0.1.4",
+    "component-domify": "1.2.2",
+    "component-emitter": "1.1.2"
   },
   "devDependencies": {
     "chai": "*"
