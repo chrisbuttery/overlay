@@ -1,0 +1,19 @@
+{
+  "name": "nib-overlay",
+  "version": "0.1.1",
+  "description": "Create dialogs with static content or via AJAX",
+  "keywords": [
+    "overlay",
+    "ui"
+  ],
+  "dependencies": {
+    "after-transition": "0.0.3",
+    "component-event": "master",
+    "component-domify": "master",
+    "component-emitter": "master"
+  },
+  "devDependencies": {
+    "chai": "*"
+  },
+  "main": "index.js"
+}
