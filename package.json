@@ -2,18 +2,12 @@
   "name": "overlay",
   "version": "0.1.1",
   "description": "Create dialogs with static content or via AJAX",
-  "keywords": [
-    "overlay",
-    "ui"
-  ],
   "dependencies": {
     "after-transition": "0.0.4",
-    "event": "git+https://git@github.com/component/event.git",
-    "domify": "git+https://git@github.com/component/domify.git",
-    "emitter": "git+https://git@github.com/component/emitter.git"
+    "component-event": "git+https://git@github.com/component/event.git#0.1.4",
+    "domify": "git+https://git@github.com/component/domify.git#1.2.2",
+    "component-emitter": "git+https://git@github.com/component/emitter.git#1.1.2"
   },
-  "devDependencies": {
-    "chai": "*"
-  },
-  "main": "index.js"
+  "main": "index.js",
+  "private": true
 }
