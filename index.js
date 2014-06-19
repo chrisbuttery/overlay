@@ -1,8 +1,8 @@
 var template = require('./template');
 var afterTransition = require('after-transition');
 var domify = require('domify');
-var events = require('event');
-var emitter = require('emitter');
+var events = require('component-event');
+var emitter = require('component-emitter');
 
 /**
  * Initialize a new `Overlay`.
